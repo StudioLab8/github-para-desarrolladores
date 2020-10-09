@@ -2,4 +2,4 @@
 
 curso github para desarrolladores
 
-[Visita mi Blog] (https://johnnievox.studiolab8.com)
+[Visita mi Blog](https://johnnievox.studiolab8.com)
